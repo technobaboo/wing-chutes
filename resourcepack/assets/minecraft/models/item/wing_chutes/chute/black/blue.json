@@ -1,0 +1,8 @@
+{
+	"parent": "item/wing_chutes/wing_chute",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "wingchutes/base_black",
+		"1": "wingchutes/glow_blue"
+	}
+}
