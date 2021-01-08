@@ -1,2 +1,5 @@
+datapack/data/
 
-wing-chutes-datapack/data/
+*.DS_Store
+*.zip
+*.blend1
