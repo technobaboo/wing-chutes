@@ -7,13 +7,31 @@ module.exports = {
     "dev": true,
 
 	"colorModelData": [
-		{"baseColor": 0, "circuitColor": 1, "customModelData": 1},
-		{"baseColor": 0, "circuitColor": 2, "customModelData": 2},
-		{"baseColor": 0, "circuitColor": 3, "customModelData": 3},
+		{"baseColor": 0, "circuitColor":  0, "customModelData":  0},
+		{"baseColor": 0, "circuitColor":  1, "customModelData":  1},
+		{"baseColor": 0, "circuitColor":  2, "customModelData":  2},
+		{"baseColor": 0, "circuitColor":  3, "customModelData":  3},
+		{"baseColor": 0, "circuitColor":  4, "customModelData":  4},
+		{"baseColor": 0, "circuitColor":  5, "customModelData":  5},
+		{"baseColor": 0, "circuitColor":  6, "customModelData":  6},
+		{"baseColor": 0, "circuitColor":  7, "customModelData":  7},
+		{"baseColor": 0, "circuitColor":  8, "customModelData":  8},
+		{"baseColor": 0, "circuitColor":  9, "customModelData":  9},
+		{"baseColor": 0, "circuitColor": 10, "customModelData": 10},
+		{"baseColor": 0, "circuitColor": 11, "customModelData": 11},
 
-		{"baseColor": 1, "circuitColor": 1, "customModelData": 11},
-		{"baseColor": 1, "circuitColor": 2, "customModelData": 12},
-		{"baseColor": 1, "circuitColor": 3, "customModelData": 13}
+		{"baseColor": 1, "circuitColor":  0, "customModelData":  0},
+		{"baseColor": 1, "circuitColor":  1, "customModelData":  1},
+		{"baseColor": 1, "circuitColor":  2, "customModelData":  2},
+		{"baseColor": 1, "circuitColor":  3, "customModelData":  3},
+		{"baseColor": 1, "circuitColor":  4, "customModelData":  4},
+		{"baseColor": 1, "circuitColor":  5, "customModelData":  5},
+		{"baseColor": 1, "circuitColor":  6, "customModelData":  6},
+		{"baseColor": 1, "circuitColor":  7, "customModelData":  7},
+		{"baseColor": 1, "circuitColor":  8, "customModelData":  8},
+		{"baseColor": 1, "circuitColor":  9, "customModelData":  9},
+		{"baseColor": 1, "circuitColor": 10, "customModelData": 10},
+		{"baseColor": 1, "circuitColor": 11, "customModelData": 11}
 	],
 
 	"elytraTag": {

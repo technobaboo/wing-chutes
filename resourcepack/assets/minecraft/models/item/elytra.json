@@ -5,12 +5,30 @@
 },
 
 "overrides": [
-{"predicate": {"custom_model_data": 1}, "model": "item/wing_chutes/pack/black/blue"},
-{"predicate": {"custom_model_data": 2}, "model": "item/wing_chutes/pack/black/orange"},
-{"predicate": {"custom_model_data": 3}, "model": "item/wing_chutes/pack/black/green"},
+{"predicate": {"custom_model_data":  0}, "model": "item/wing_chutes/pack/black/00"},
+{"predicate": {"custom_model_data":  1}, "model": "item/wing_chutes/pack/black/01"},
+{"predicate": {"custom_model_data":  2}, "model": "item/wing_chutes/pack/black/02"},
+{"predicate": {"custom_model_data":  3}, "model": "item/wing_chutes/pack/black/03"},
+{"predicate": {"custom_model_data":  4}, "model": "item/wing_chutes/pack/black/04"},
+{"predicate": {"custom_model_data":  5}, "model": "item/wing_chutes/pack/black/05"},
+{"predicate": {"custom_model_data":  6}, "model": "item/wing_chutes/pack/black/06"},
+{"predicate": {"custom_model_data":  7}, "model": "item/wing_chutes/pack/black/07"},
+{"predicate": {"custom_model_data":  8}, "model": "item/wing_chutes/pack/black/08"},
+{"predicate": {"custom_model_data":  9}, "model": "item/wing_chutes/pack/black/09"},
+{"predicate": {"custom_model_data": 10}, "model": "item/wing_chutes/pack/black/10"},
+{"predicate": {"custom_model_data": 11}, "model": "item/wing_chutes/pack/black/11"},
 
-{"predicate": {"custom_model_data":11}, "model": "item/wing_chutes/pack/white/blue"},
-{"predicate": {"custom_model_data":12}, "model": "item/wing_chutes/pack/white/orange"},
-{"predicate": {"custom_model_data":13}, "model": "item/wing_chutes/pack/white/green"}
+{"predicate": {"custom_model_data":100}, "model": "item/wing_chutes/pack/white/00"},
+{"predicate": {"custom_model_data":101}, "model": "item/wing_chutes/pack/white/01"},
+{"predicate": {"custom_model_data":102}, "model": "item/wing_chutes/pack/white/02"},
+{"predicate": {"custom_model_data":103}, "model": "item/wing_chutes/pack/white/03"},
+{"predicate": {"custom_model_data":104}, "model": "item/wing_chutes/pack/white/04"},
+{"predicate": {"custom_model_data":105}, "model": "item/wing_chutes/pack/white/05"},
+{"predicate": {"custom_model_data":106}, "model": "item/wing_chutes/pack/white/06"},
+{"predicate": {"custom_model_data":107}, "model": "item/wing_chutes/pack/white/07"},
+{"predicate": {"custom_model_data":108}, "model": "item/wing_chutes/pack/white/08"},
+{"predicate": {"custom_model_data":109}, "model": "item/wing_chutes/pack/white/09"},
+{"predicate": {"custom_model_data":110}, "model": "item/wing_chutes/pack/white/10"},
+{"predicate": {"custom_model_data":111}, "model": "item/wing_chutes/pack/white/11"}
 ]
 }
